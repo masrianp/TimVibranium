@@ -1,0 +1,85 @@
+1
+00:00:01,137 --> 00:00:30,957
+Speaker 1
+Assalamualaikum warahmatullahi wabarakatuh Pertama -tama saya kenalan diri dulu ya Saya mahasiswa dari kampus Telkom University Dan nama saya itu Adrian Saper Setio Dengan mahasiswa siapa? Om Cupa Dan saya bersama tim pengembang aplikasi Dari mata kuliah interaksi manusia komputer Dengan bersama kawan saya, tim pengembang dari Vibranium Bernama?
+
+2
+00:00:31,937 --> 00:00:32,817
+Speaker 0
+Saya Desna Nugraha
+
+3
+00:00:32,817 --> 00:05:44,476
+Speaker 1
+Desna Nugraha, oke Kali ini saya ingin mewawancarai tentang aplikasi pengembangan Yang tim kami sendiri buat Dari tim Vibranium yang berbasis Android atau mobile Dengan aplikasi ini dibentuk atau dibuat Bertujuan untuk membuat Pengembangan dari VibraniumCustomer atau pelanggan Atau orang -orang masyarakat Di sekitaran Indonesia mudah untuk Memperbaiki motornya Atau mobilnya yang sedang Masa kerusakan atau dalam kerusakan Di tengah jalan ataupun sedang Di rumah Mas Cupa sendiri Pernah gak sih Dengar aplikasi tentang mekanik Gak pernah ya Belum pernah ya Jadi di fitur -fitur Nanti yang saya kembangin Ini nih aplikasi yang saya kembangin Ini nih itu memiliki Fitur -fitur yang terinspirasi Dari Gojek gitu Jadi itu dia real time Dia itu aplikasinya fiturnya ini Bisa Si penggunanya ini Si user ini bisa menggunakan Aplikasi tersebut untukMemesan jasa mekanik Di bengkel ataupun orang yang memiliki Bakat mekanik seperti itu Nah si penjasanya itu bisa mendaftarkan diri Untuk bekerja sebagai jasa mekanik Ataupun bengkel tersebut bisa Mendaftarkan diri di aplikasi tersebut Jadi aplikasi ini Disebutnya juga sebagai Bengkel berjalan seperti itu Nah Jadi terinspirasi dari Gojeknya itu Seperti contohnya aja nih Mas Cupa Terjadi masalah di kendaraan Ini tipe kendaraannya apa Mas Cupa?  Mobil Mobil ya Kalau biasanya apa? Kalau mobil itu biasanya orang suka Lupa mati listrik itu Jadi biasanya itu aki nya tekor Gak bisa jalan dong Kalau gak bisa jalan itu biasanya Ada solusi yang kayak gini -gini Oh solusi yang harus kayak gitu ya Jadi kayak tiba -tiba mati jadi gak tau nih Mau gimana gitu Jadi di fitur kami ini aplikasi kami ini Itu dapat dituntaskan dengan aplikasi kami Dengan fitur -fitur yang udah ada Jadi kita tinggal Searching Mekanik mana yang lebih bagus Lalu di fitur -fitur itu juga ada Notifikasi untuk Mas Cupa sendiri Service itu berapa bulan sekali Atau gimana seperti itu Iya ada recordnya seperti itu NahDari fitur -fitur kami sendiri juga Disitu juga Mas Cupa sendiri Bisa ngerating mekanik kesukaan Mas Cupa Siapa favoritnya siapa Dan Mas Cupa sendiri Kalau misalkan terjadi kerusakannya Di dalam rumah dan Mas Cupa sendiri Gak tau nih bengkel mana yang terdekat Dan bengkel mana yang bisa datang ke rumah Mas Cupa sendiri bisa untuk memesan Dan dia datang ke rumah Dia real time Ada dimana aja Dan juga di fitur kami ini juga Mereka punya katalog Untuk Mengasih tau spare part apa saja Yang Mas Cupa butuhkan Apakah di bengkel tersebut Atau di orang yang mempunyai Jasa mekanik tersebut punya spare partnya Atau tidak Jadi Mas Cupa itu sudah Langsung tinggal memesan Dan juga disitu real time nya juga Dia juga bisa lewat cetan Jadi Mas Cupanya sendiri bisa Cetan sama si mekaniknya itu Apa aja sih kerusakannya Jadi si mekaniknya Gak miskomunikasi tentang Pembawaan alat -alat dan spare partnya Transparan Jadi nanti Mas Cupa itu Di fitur -fiturnya bisa ada Kayak Tipe kendaraan Mas Cupa Misalkan motor Tipe kendaraan itu Kalau di aplikasi kami ini Berbentuk kayak ada roda 2 Roda 3, roda 4 Kalau spesifikasinya itu Motor, mobil Seperti lain -lainnya Terus Mas Cupa sendiri bisa ngisi Kerusakannya di bagian catatan Lalu bisa via chat Titik lokasi Mas Cupa Dan juga kerusakan Yang bisa terjadi apapun Misalkan Mas Cupa sendiri tidak tahu kerusakannya apa Di fitur kami ini Dia lewat chat Tinggal Mas Cupa ngeliat katalognya aja Apakah sudah full Full spare part atau tidak di katalognya mereka Nah Mas Cupa bisa Langsung memesan Jadi si Mas Cupa gak salah mekanik Jadi Mas Cupa bisa langsung memesan Mas Cupa sendiri gak salah mekanik Dan gak salah bengkel Jadi langsung ke tempat tujuan Dan juga di fitur kami itu Pembayarannya bisa cashless Ataupun cash Layaknya gojek Bisa cashless dan cash Nah dan juga di fitur kami tersebut Juga ada yang namanya Fitur kami itu memiliki Layanan Layanan -layanan lain Seperti mau beli spare partnya saja atau tidak Seperti itu di bengkel Dia ada pilihannya Nah seperti ituLalu pertanyaannya Pertanyaan -pertanyaan penting nih Nanti seputar untuk aplikasi pengembangan saya itu Nanti akan disampaikan oleh Desna Oke
+
+4
+00:05:45,936 --> 00:05:58,476
+Speaker 0
+Lanjut ke pertanyaan saya mas Jadi pertanyaan pertama disini saya Apa sih kendala yang pernah mas alami Saat kendaraan mabok Atau butuh servis secara mendadak nih mas Pertama
+
+5
+00:05:58,476 --> 00:06:14,894
+Speaker 1
+yang biasa Kalau orang suka keluar kota Itu kan mobil gak dipanasin Atau kayak diem aja gitu kan Itu biasa kendala dikelistrikan Kadang kita jarang tauinKalau dari mobil Kalau dari
+
+6
+00:06:14,894 --> 00:06:18,274
+Speaker 0
+mobil Jadi belum dipanasin dari semalam Langsung main jalan aja gitu ya
+
+7
+00:06:18,274 --> 00:06:33,074
+Speaker 1
+Ya biasanya perawatan -perawatannya gitu tuh kita jarang Ketahuin Terus rusaknya tiba -tiba ya Kalau untuk motor sendiri mas Kalau motor Kalau motor sih jarang ya Karena kita pakai motor terus sih kan Jadi kayak
+
+8
+00:06:33,874 --> 00:06:45,614
+Speaker 0
+Kurang lebihnya ke mobil sih Kalau kayak gitu -gitu Rusakan Lanjut ke pertanyaan berikutnya Menurut mas Fitur apa yang paling penting Dari aplikasi pemesanan jasa mekanik Seperti aplikasi kita
+
+9
+00:06:47,094 --> 00:07:13,019
+Speaker 1
+Fitur yang paling penting Yang pertama itu Pertama kan ada katalog ya Terus yang kedua tuh adaFitur layanan Fitur layanan Ini sih Gak ke fiturnya cuman ke ready Untuk mekaniknya Itu tuh selalu ada itu Buat keredian mekaniknya Untuk membuat mesin Jadi terus luker ya
+
+10
+00:07:15,799 --> 00:07:31,539
+Speaker 0
+Lanjut untuk pertanyaan berikutnya Bagaimana preferensi Mas Jupa dalam pembayaran Tunai e -wallet atau transfer bank Gimana Preferensi dalam pembayaran Jadi baik tunai e -wallet Atau transfer bank Lebih
+
+11
+00:07:31,539 --> 00:07:40,925
+Speaker 1
+oke manaTapi oke mana Kalau yang itu tergantung orangnya Kalau ini cashless, kalau yang ini tunai Harus ada dua -duanya sih Lebih
+
+12
+00:07:40,925 --> 00:07:42,185
+Speaker 0
+baik ada dua
+
+13
+00:07:42,185 --> 00:07:49,945
+Speaker 1
+-duanya Biasanya kalau orang tua kan harus ada Tunai doang kan Kalau anak muda kan biasanya cashless Harus ada dua -duanya
+
+14
+00:07:51,125 --> 00:07:58,705
+Speaker 0
+Yang terakhir Adakah saran dan Masukan nih dari Mas Jupa Buat pengembangan aplikasi kita
+
+15
+00:07:58,705 --> 00:08:25,085
+Speaker 1
+Saran dan harapan Saran itu yang dari pertama Real time itu yang selalu ada Harus ada emang Yang kedua itu Biasanya tergait server Kalau enggak Misalkan kita lagi nyari Bantuan yang di aplikasi Masnya ini Terus tiba -tiba ini error Tapi pengenangan itu harus cepat Kalau ada error Emang harus ada backupan yang harus
+
+16
+00:08:26,105 --> 00:08:30,529
+Speaker 0
+ DipagusinBaik, sekian pertanyaan dari saya
+
+17
+00:08:31,649 --> 00:12:39,035
+Speaker 1
+Oke, dari pertanyaan tadi Mas Cupa sendiri punya harapan tersendiri ya Tentang aplikasi nanti yang saya buat gitu  Lalu Sebelumnya belum nanya nih Tentang Mas Cupanya sendiri nih Mas Cupa sendiri profesinya apa sih? Ini saya Tukang es Tukang es Oh, tukang es gitu Tukang es ini pake kendaraan apa tuh? Motor Oh, pake motor Jadi biasanya ada orang yang nganterin esnya Oh, jadi esnya itu jualan -jualan es Kayak minuman Itu udah ada pelanggan masih -masih Jadi kayak Es cube gitu ya Kalau orang Jawa bilang, bakul es Bakul es Profesinya itu ya Sebelumnya umur berapa sih Mas Cupa? Mas Cupa udah punya bisnis seperti itu? 26 26?  OhLumayan ya pengalaman udah gede ya Udah ini lah ya Jadi berarti Masuk akal dong kalau misalkan Aplikasi ini kalau misalkan Mas Jupa sendiri Dikendaraan Mas Jupa untuk ngantar Ice Cube nya itu terkendala Ini yang Butuh sih orang -orang butuh Yang gak tau tentang motor Gak tau tentang mobil kan banyak ya Punya motor banyak Tapi gak tau tentang apa yang kerusakan Ini kan ini banyak juga Banyak juga ya Ada ini tuh emang butuh Harus butuh ya Jadi Mas Jupa ini Berumur 26 tahun Dan profesi sebagai Pembuat Ice Cube Yang ada di Jakarta ini ya Mas ya Kalau boleh tau MasTempat rumah atau kerjanya itu dimana mas? Di Kebun Jeruk Di Kebun Jeruk? Di RCTI saya Deket RCTI Oh oke Berarti tempatnya itu dia ada di RCTI Apakah disono padat dan tidak ada bengkel atau gimana?Kalau di Kebun Jeruk itu ada Cuman Kalau kita kan males ke bengkel karena Ada yang ditipu -tipukan harganya Oh Emang transparasi Apa? Disini kan tadi ngejelasin harga Sperpat itu kan transparan Itu lebih enak lagi Gak yang ditembak -tembak gitu loh harganya Oh seperti itu Jadi sebenarnya saya juga bisa menjelaskan tentang estimasi harga ya Untuk estimasi biaya itu Itu sudah dihitung tentang estimasi perjalanan Estimasi katalog tentang sperat -speratnya Dan juga estimasi kerusakan Seperti itu Dihitungnya seperti itu Kalau di bengkel kan biasanya Bengkel -bengkel kecil selain yang di Yamaha, Honda itu kan Biasanya nembak ya kalau sperpatnya Iya biasanya nembak Kalau ada yang transparan kenapa enggak ya kan Nah makanya nanti di fitur -fitur situ Estimasinya sudah dibiayakan seperti itu Dan juga ada tipe kendaraannya Sesuai Jadi kalau motor dengan harga seperti itu Kalau mobil harganya dengan seperti itu NahApakah masih ada nih Masukan lain gitu Mas Jupa Untuk penutupan Wawancara sore hari ini Yang diperluin dalam Usaha masnya ini Ini sih Lebih ke SDM ya Ngatur sumber daya manusianya Ngatur sumber daya manusianya Kesabaran mekaniknya Itu kan juru pekerja kan Pekerja itu juga kan Itu sih ngatur SDMnya yang paling berat SDMnya ya Untuk bagian yang Ngelayaninnya ya Karena kami sendiri kan dari usernya berbeda -beda Dan mereka yang mendaftar Jadi kita SDMnya ya OkeSekian terima kasih ya Mas Jupa untuk wawancaranya sore hari ini Mohon maaf jika dari tim Vibranium ini ada kesalahan kata Dan masih mengembangkan Webnya tersebut, aplikasi tersebut Berbasis mobile Nanti kalau boleh nanti di rating saja Kalau sudah muncul Harus wajib dicoba ya mas Sekian terima kasih Wawancara hari ini, sore ini Wassalamualaikum warahmatullahi wabarakatuh Wabarakatuh
+
